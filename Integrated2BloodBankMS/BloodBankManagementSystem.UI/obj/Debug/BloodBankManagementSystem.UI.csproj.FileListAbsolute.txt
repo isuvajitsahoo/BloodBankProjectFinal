@@ -1,0 +1,248 @@
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.baml
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HomePage.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HomePage.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.baml
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.g.cs
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HomePage.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\App.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HomePage.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.baml
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+D:\MiniProject\ToIntegrate\BloodBankManagementSystemsolution\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.baml
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\kwakchau\Desktop\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampAdd.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampModify.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampViewDetails.g.cs
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampAdd.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampModify.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampViewDetails.baml
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe.config
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.BLL.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.Exceptions.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\bin\Debug\BloodBankMangementSystem.DAL.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csprojAssemblyReference.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampAdd.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampModify.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampViewDetails.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI_MarkupCompile.lref
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\App.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManager.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankModify.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampAdd.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampModify.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonationCampViewDetails.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HomePage.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalManager.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\HospitalModify.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\Login.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewBloodBankDetails.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\ViewHospitalDetails.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.g.resources
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.Properties.Resources.resources
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.GenerateResource.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.csproj.CopyComplete
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.exe
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodBankManagementSystem.UI.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\AddBloodDonor.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\AddBloodDonor.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonorDonation.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\DisplayBloodDonorList.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\DonationDetails.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\UpdateBloodDonor.g.cs
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\BloodDonorDonation.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\DisplayBloodDonorList.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\DonationDetails.baml
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankManagementSystem.UI\obj\Debug\UpdateBloodDonor.baml

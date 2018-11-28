@@ -1,0 +1,24 @@
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csprojAssemblyReference.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.dll
+D:\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.pdb
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csprojAssemblyReference.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.dll
+C:\Users\Personal\Documents\Soumick Visual Studio\Miniproject\BloodBankManagementSystemsolution\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csprojAssemblyReference.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\bhakpati\Downloads\BloodBankMiniProject\BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\bin\Debug\BloodBankMangementSystem.Entity.pdb
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csprojAssemblyReference.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.csproj.CoreCompileInputs.cache
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.dll
+D:\Users\rshinde1\Desktop\rohitallmodule3\Integrated2BloodBankMS\BloodBankMangementSystem.Entity\obj\Debug\BloodBankMangementSystem.Entity.pdb

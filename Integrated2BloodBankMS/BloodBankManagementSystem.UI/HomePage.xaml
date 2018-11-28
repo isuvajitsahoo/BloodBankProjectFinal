@@ -1,0 +1,51 @@
+﻿<Window x:Class="BloodBankManagementSystem.UI.HomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BloodBankManagementSystem.UI"
+        mc:Ignorable="d"
+        Title="Home Page" Height="450" Width="800" Style="{StaticResource HeaderFooterWindowStyle}">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" Background="LightGray" Height="28" HorizontalAlignment="Left" Width="792" VerticalAlignment="Top">
+                <MenuItem Header="_Blood Bank" Background="{x:Null}" Height="28">
+                    <MenuItem x:Name="menuBBDetails" Header="_Add Blood Bank Details" Click="MenuBBDetails_Click" />
+                    <MenuItem x:Name="menuModBBDetails" Header="_Modify/Delete Blood Bank Details" Click="MenuModBBDetails_Click" />
+                    <MenuItem x:Name="menuViewBBDetails" Header="_View All Blood Bank Details" Click="MenuViewBBDetails_Click" />
+                    
+                        <!--<Separator />
+                    <MenuItem Header="_Exit" />-->
+        
+                </MenuItem>
+
+                <MenuItem Header="_Blood Doner" Background="{x:Null}" Height="28">
+                    <MenuItem x:Name="menuBDDetails" Header="_Add Blood Doner Details" Click="MenuBDDetails_Click"/>
+                    <MenuItem x:Name="menuModBDDetails" Header="_Modify/Delete Blood Doner Details" Click="MenuModBDDetails_Click"/>
+                    <MenuItem x:Name="menuViewBDDetails" Header="_View All Blood Doner Details" Click="MenuViewBDDetails_Click"/>
+                </MenuItem>
+
+                <MenuItem Header="_Blood Donation Camp" Background="{x:Null}" Height="28">
+                    <MenuItem x:Name="menuBDCDetails" Header="_Add Blood Donation Camp Details" Click="MenuBDCDetails_Click"/>
+                    <MenuItem x:Name="menuModBDCDetails" Header="_Modify/Delete Blood Donation Camp Details" Click="MenuModBDCDetails_Click"/>
+                    <MenuItem x:Name="menuViewBDCDetails" Header="_View All Blood Donation Camp Details" Click="MenuViewBDCDetails_Click"/>
+                </MenuItem>
+
+                <MenuItem Header="_Hospital" Background="{x:Null}" Height="28">
+                    <MenuItem x:Name="menuHDetails" Header="_Add Hospital Details" Click="MenuHDetails_Click"/>
+                    <MenuItem x:Name="menuModHDetails" Header="_Modify/Delete Hospital Details" Click="MenuModHDetails_Click"/>
+                    <MenuItem x:Name="menuViewHDetails" Header="_View All Hospital Details" Click="MenuViewHDetails_Click"/>
+                </MenuItem>
+
+                <MenuItem Header="_Inventory " Background="{x:Null}" Height="28" Click="MenuItem_Click">
+                    <MenuItem x:Name="menuIDetails" Header="_Add Inventory Details" Click="MenuIDetails_Click"/>
+                    <MenuItem x:Name="menuModIDetails" Header="_Modify/Delete Inventory Details" Click="MenuModIDetails_Click"/>
+                    <MenuItem x:Name="menuViewIDetails" Header="_View All Inventory Details" Click="MenuViewIDetails_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <TextBlock x:Name="textBlock" Margin="50,113,0,0" TextWrapping="Wrap" Text="Welcome!" FontSize="25" FontWeight="Bold" HorizontalAlignment="Left" Width="126" Height="48" VerticalAlignment="Top"/>
+       
+
+    </Grid>
+</Window>

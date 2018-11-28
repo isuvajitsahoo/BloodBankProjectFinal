@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64A92118-C907-4A68-8E78-88F28EC85FB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BloodBankManagementSystem.UI</RootNamespace>
+    <AssemblyName>BloodBankManagementSystem.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AddBloodDonor.xaml.cs">
+      <DependentUpon>AddBloodDonor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDonationCampAdd.xaml.cs">
+      <DependentUpon>BloodDonationCampAdd.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDonationCampModify.xaml.cs">
+      <DependentUpon>BloodDonationCampModify.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDonationCampViewDetails.xaml.cs">
+      <DependentUpon>BloodDonationCampViewDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodDonorDonation.xaml.cs">
+      <DependentUpon>BloodDonorDonation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodInventoryDelete.xaml.cs">
+      <DependentUpon>BloodInventoryDelete.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodInventoryDisplay.xaml.cs">
+      <DependentUpon>BloodInventoryDisplay.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodTransfer.xaml.cs">
+      <DependentUpon>BloodTransfer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayBloodDonorList.xaml.cs">
+      <DependentUpon>DisplayBloodDonorList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DonationDetails.xaml.cs">
+      <DependentUpon>DonationDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalManager.xaml.cs">
+      <DependentUpon>HospitalManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalModify.xaml.cs">
+      <DependentUpon>HospitalModify.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateBloodDonor.xaml.cs">
+      <DependentUpon>UpdateBloodDonor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewBloodBankDetails.xaml.cs">
+      <DependentUpon>ViewBloodBankDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewHospitalDetails.xaml.cs">
+      <DependentUpon>ViewHospitalDetails.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddBloodDonor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodBankManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodBankModify.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodDonationCampAdd.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodDonationCampModify.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodDonationCampViewDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodDonorDonation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodInventoryDelete.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodInventoryDisplay.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="BloodTransfer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DisplayBloodDonorList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DonationDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HospitalManager.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HospitalModify.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Login.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BloodBankManager.xaml.cs">
+      <DependentUpon>BloodBankManager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BloodBankModify.xaml.cs">
+      <DependentUpon>BloodBankModify.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="UpdateBloodDonor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewBloodBankDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewHospitalDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BloodBankMangementSystem.BLL\BloodBankMangementSystem.BLL.csproj">
+      <Project>{bd928ba3-71d1-4740-952b-7748b374c550}</Project>
+      <Name>BloodBankMangementSystem.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BloodBankMangementSystem.DAL\BloodBankMangementSystem.DAL.csproj">
+      <Project>{34140650-35d0-4414-98e6-fc9aafb6e6ca}</Project>
+      <Name>BloodBankMangementSystem.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BloodBankMangementSystem.Entity\BloodBankMangementSystem.Entity.csproj">
+      <Project>{22814a94-d166-4d75-b9d3-ab9b44759cf0}</Project>
+      <Name>BloodBankMangementSystem.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BloodBankMangementSystem.Exceptions\BloodBankMangementSystem.Exceptions.csproj">
+      <Project>{588cb522-80df-498f-951d-9239c25603e7}</Project>
+      <Name>BloodBankMangementSystem.Exceptions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

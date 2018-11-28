@@ -1,0 +1,35 @@
+﻿<Window x:Class="BloodBankManagementSystem.UI.BloodDonorDonation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BloodBankManagementSystem.UI"
+        mc:Ignorable="d"
+        Title="BloodDonorDonation" Height="736.134" Width="800" Style="{StaticResource HeaderFooterWindowStyle}" Loaded="Window_Loaded">
+    <Grid Margin="10,0,14,16">
+        <Label x:Name="label" Content="Blood Donor Donation Id" HorizontalAlignment="Left" Margin="46,34,0,0" VerticalAlignment="Top" Width="233" Height="40" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Blood Donor Id" HorizontalAlignment="Left" Margin="46,89,0,0" VerticalAlignment="Top" Height="44" Width="164" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="label2" Content="BloodDonationDate" HorizontalAlignment="Left" Margin="46,154,0,0" VerticalAlignment="Top" Height="45" Width="202" FontWeight="Bold" FontSize="18"/>
+        <Label x:Name="label3" Content="Number of Bottle" HorizontalAlignment="Left" Margin="46,222,0,0" VerticalAlignment="Top" Width="164" Height="32" FontWeight="Bold" FontSize="18"/>
+        <Label x:Name="label4" Content="Weight" HorizontalAlignment="Left" Margin="46,278,0,0" VerticalAlignment="Top" Width="114" Height="32" FontWeight="Bold" FontSize="18"/>
+        <Label x:Name="label5" Content="HB Count" HorizontalAlignment="Left" Margin="46,339,0,0" VerticalAlignment="Top" Height="32" Width="114" FontWeight="Bold" FontSize="18"/>
+        <Button x:Name="button" Content="Donate Blood" HorizontalAlignment="Left" Margin="261,565,0,0" VerticalAlignment="Top" Width="197" Height="39" FontSize="20" FontWeight="Bold" Click="button_Click"/>
+        <Label x:Name="BloodDonationLabel" Content="" HorizontalAlignment="Left" Margin="338,34,0,0" VerticalAlignment="Top" Height="28" Width="177"/>
+        <DatePicker Name="dateChoose" HorizontalAlignment="Left" Margin="338,173,0,0" VerticalAlignment="Top" Height="26" Width="151"/>
+        <TextBox x:Name="txtnoofbottle" HorizontalAlignment="Left" Height="23" Margin="338,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="textweight" HorizontalAlignment="Left" Height="23" Margin="338,287,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtHB" HorizontalAlignment="Left" Height="23" Margin="338,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label7" Content="In KG" HorizontalAlignment="Left" Margin="463,287,0,0" VerticalAlignment="Top" Height="32" Width="52" FontSize="14" FontWeight="Bold" RenderTransformOrigin="0.137,0.616"/>
+        <TextBox x:Name="txtBloodDonorId" HorizontalAlignment="Left" Height="33" Margin="338,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="177"/>
+        <Button x:Name="button1" Content="View Donations" HorizontalAlignment="Left" Margin="591,11,0,0" VerticalAlignment="Top" Width="150" Height="32" FontSize="18" FontWeight="Bold" Click="button1_Click"/>
+        <Label x:Name="label6" HorizontalAlignment="Left" Margin="80,430,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="Blood Group" HorizontalAlignment="Left" Margin="46,416,0,0" VerticalAlignment="Top" Height="43" Width="128" FontWeight="Bold" FontSize="18"/>
+        <Label x:Name="lblbloodgroup" Content="" HorizontalAlignment="Left" Margin="338,422,0,0" VerticalAlignment="Top" Height="38" Width="147" RenderTransformOrigin="0.5,0.5">
+            
+        </Label>
+        <Label x:Name="label10" Content="Blood Bank Id" HorizontalAlignment="Left" Margin="50,490,0,0" VerticalAlignment="Top" Height="40" Width="135" FontWeight="Bold" FontSize="18"/>
+        <ComboBox x:Name="cmbBloodBankId" HorizontalAlignment="Left" Margin="338,490,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
+        <Button x:Name="button2" Content="Search" HorizontalAlignment="Left" Margin="570,100,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.333,1.364" Height="33" Click="button2_Click"/>
+
+    </Grid>
+</Window>

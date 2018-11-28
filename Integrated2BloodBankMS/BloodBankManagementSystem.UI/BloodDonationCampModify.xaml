@@ -1,0 +1,38 @@
+﻿<Window x:Class="BloodBankManagementSystem.UI.BloodDonationCampModify"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BloodBankManagementSystem.UI"
+        mc:Ignorable="d"
+        Title="BloodDonationCampModify" Height="541" Width="794">
+    <Grid Margin="0,0,13,5">
+        <Label x:Name="lblBloodDonationCampID" Content="Blood Donation Camp ID" HorizontalAlignment="Left" Margin="41,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+        <TextBox x:Name="txtBloodDonationCampId" HorizontalAlignment="Left" Height="23" Margin="260,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <GroupBox x:Name="gbModify" Header="" Visibility="Visible"  HorizontalAlignment="Left" Height="454" Margin="0,72,0,-106" VerticalAlignment="Top" Width="520">
+            <Grid HorizontalAlignment="Left" Height="428" Margin="30,-20,-67,0" VerticalAlignment="Top" Width="545">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Label x:Name="lblCampName" Content="Camp Name" HorizontalAlignment="Left" Margin="41,83,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <Label x:Name="lbAddress" Content="Address" HorizontalAlignment="Left" Margin="41,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <Label x:Name="lblCity" Content="City" HorizontalAlignment="Left" Margin="41,169,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <Label x:Name="lblBloodBankID" Content="Blood Bank ID" HorizontalAlignment="Left" Margin="41,211,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <Label x:Name="lblCampStartDate" Content="Camp Start Date" HorizontalAlignment="Left" Margin="41,255,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <Label x:Name="lblCampEndDate" Content="Camp End Date" HorizontalAlignment="Left" Margin="41,298,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.338,0.038"/>
+                <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Height="23" Margin="283,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtCity" HorizontalAlignment="Left" Height="23" Margin="283,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtBloodBankId" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="283,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="txtCampName" HorizontalAlignment="Left" Height="23" Margin="283,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <DatePicker x:Name="txtCampStartDate" HorizontalAlignment="Left" Margin="283,255,0,0" VerticalAlignment="Top" Width="120"/>
+                <DatePicker x:Name="txtCampEndDate" HorizontalAlignment="Left" Margin="283,300,0,0" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="btnUpdateCampDetails" Content="Update Camp Details" HorizontalAlignment="Left" Margin="63,388,0,0" VerticalAlignment="Top" Width="133" Click="btnUpdateCampDetails_Click"/>
+                <Button x:Name="btnDeleteCampDetails" Content="Delete Camp Details" HorizontalAlignment="Left" Margin="283,388,0,0" VerticalAlignment="Top" Width="120" Click="btnDeleteCampDetails_Click"/>
+            </Grid>
+
+        </GroupBox>
+        <Button x:Name="btnsearchCamp" Content="Search Camp" HorizontalAlignment="Left" Margin="460,45,0,0" VerticalAlignment="Top" Width="85" Click="btnsearchCamp_Click"/>
+
+    </Grid>
+</Window>

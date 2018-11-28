@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBankManagementSystem.UI", "BloodBankManagementSystem.UI\BloodBankManagementSystem.UI.csproj", "{64A92118-C907-4A68-8E78-88F28EC85FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBankMangementSystem.Entity", "BloodBankMangementSystem.Entity\BloodBankMangementSystem.Entity.csproj", "{22814A94-D166-4D75-B9D3-AB9B44759CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBankMangementSystem.Exceptions", "BloodBankMangementSystem.Exceptions\BloodBankMangementSystem.Exceptions.csproj", "{588CB522-80DF-498F-951D-9239C25603E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBankMangementSystem.BLL", "BloodBankMangementSystem.BLL\BloodBankMangementSystem.BLL.csproj", "{BD928BA3-71D1-4740-952B-7748B374C550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloodBankMangementSystem.DAL", "BloodBankMangementSystem.DAL\BloodBankMangementSystem.DAL.csproj", "{34140650-35D0-4414-98E6-FC9AAFB6E6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A92118-C907-4A68-8E78-88F28EC85FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A92118-C907-4A68-8E78-88F28EC85FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A92118-C907-4A68-8E78-88F28EC85FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A92118-C907-4A68-8E78-88F28EC85FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22814A94-D166-4D75-B9D3-AB9B44759CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22814A94-D166-4D75-B9D3-AB9B44759CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22814A94-D166-4D75-B9D3-AB9B44759CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22814A94-D166-4D75-B9D3-AB9B44759CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588CB522-80DF-498F-951D-9239C25603E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588CB522-80DF-498F-951D-9239C25603E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588CB522-80DF-498F-951D-9239C25603E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588CB522-80DF-498F-951D-9239C25603E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD928BA3-71D1-4740-952B-7748B374C550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD928BA3-71D1-4740-952B-7748B374C550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD928BA3-71D1-4740-952B-7748B374C550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD928BA3-71D1-4740-952B-7748B374C550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34140650-35D0-4414-98E6-FC9AAFB6E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34140650-35D0-4414-98E6-FC9AAFB6E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34140650-35D0-4414-98E6-FC9AAFB6E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34140650-35D0-4414-98E6-FC9AAFB6E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

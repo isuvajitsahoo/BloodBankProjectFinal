@@ -1,0 +1,33 @@
+﻿<Window x:Class="BloodBankManagementSystem.UI.BloodBank"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BloodBankManagementSystem.UI"
+        mc:Ignorable="d"
+        Title="BloodBank" Height="604.248" Width="800" Style="{StaticResource HeaderFooterWindowStyle}">
+    <Grid Margin="0,0,-0.4,0.4">
+        <TextBox x:Name="txtbbID" HorizontalAlignment="Left" Height="23" Margin="343,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbbName" HorizontalAlignment="Left" Height="23" Margin="343,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbbAddress" HorizontalAlignment="Left" Height="23" Margin="343,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtbbCity" HorizontalAlignment="Left" Height="23" Margin="343,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+        <TextBox x:Name="txtbbContactNo" HorizontalAlignment="Left" Height="23" Margin="343,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+
+        <!--<TextBox x:Name="txtbbUserName" HorizontalAlignment="Left" Height="23" Margin="343,339,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="pwbbbPassword" HorizontalAlignment="Left" Height="23" Width="120" Margin="343,396,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy" Content="User ID" HorizontalAlignment="Left" Margin="199,336,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Password" HorizontalAlignment="Left" Margin="199,393,0,0" VerticalAlignment="Top"/>-->
+
+
+
+        <Label x:Name="label" Content="Blood Bank ID" HorizontalAlignment="Left" Margin="199,51,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy1" Content="Contact No" HorizontalAlignment="Left" Margin="199,277,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy2" Content="City" HorizontalAlignment="Left" Margin="199,216,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy3" Content="Address" HorizontalAlignment="Left" Margin="199,160,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy4" Content="Blood Bank Name" HorizontalAlignment="Left" Margin="199,109,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="343,461,0,0" VerticalAlignment="Top" Width="80" Height="25" Click="BtnSubmit_Click"/>
+
+    </Grid>
+</Window>
